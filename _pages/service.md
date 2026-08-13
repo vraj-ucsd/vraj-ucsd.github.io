@@ -8,7 +8,7 @@ author_profile: true
 
 | Venue | Year(s) |
 |---|---|
-| SemEval — Task Organizer (MTRAGEval: Evaluating Multi-turn RAG Conversations) | 2026 |
+| SemEval (MTRAGEval: Evaluating Multi-turn RAG Conversations) — **Task Organizer** | 2026 |
 | International Conference on Management of Data (ACM SIGMOD) | 2025, 2024 |
 | The International Journal on Very Large Data Bases (VLDB Journal) | 2025 |
 | First Workshop on Data-AI Systems (DAIS) at IEEE International Conference on Data Engineering (ICDE) | 2025 |
