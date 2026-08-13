@@ -4,10 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Accepted papers at top-tier conferences and workshops: 13 &nbsp;|&nbsp; US Patents: 1 approved, 1 submitted**
-
----
-
 ## LLM Evaluation & Retrieval-Augmented Generation
 
 <b>[SemEval-2026 Task 8: MTRAGEval: Evaluating Multi-turn RAG Conversations](https://aclanthology.org/2026.semeval-1.447)</b> <br>
@@ -90,20 +86,3 @@ Muntasir Wahed, Marina Danilevsky, Ioannis Katsis, <b>Vraj Shah</b>, Huaiyu Zhu.
 Arun Kumar, <b>Vraj Shah</b>, Dharmil Chandarana.
 <i>US Patent #11086937. Approved 2021.</i>
 
----
-
-## Manuscripts & Technical Reports
-
-<b>A Label Efficient Strategy for Source-Free Specialized Domain Adaptation.</b> <br>
-<b>Vraj Shah</b>, Yannis Katsis, Lucian Popa, Salim Roukos, Tejaswini Pedapati.
-<i>Under Submission.</i>
-
-<b>[Simplifying Data Preparation for Machine Learning on Tabular Data.](https://escholarship.org/uc/item/36b7v7mv)</b> <br>
-<b>Vraj Shah</b>. <i>UCSD CS Ph.D. Dissertation, 2022.</i>
-
-<b>[Improving Feature Type Inference Accuracy of TFDV with SortingHat.](https://adalabucsd.github.io/papers/TR_2021_SortingHat.pdf)</b> <br>
-<b>Vraj Shah</b>, Kevin Yang, Arun Kumar. <i>Technical Whitepaper, 2020.</i>
-<br><i>Models explored for production use by TensorFlow Data Validation in collaboration with Google.</i>
-
-<b>[Stop That Join! Discarding Dimension Tables when Learning High Capacity Classifiers.](http://cseweb.ucsd.edu/~arunkk/hamlet/MLAvoidJoinsTR.pdf)</b> <br>
-<b>Vraj Shah</b>, Arun Kumar, Xiaojin Zhu. <i>Technical Report, 2017.</i>
