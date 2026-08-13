@@ -36,8 +36,6 @@ redirect_from:
 
 ## Service
 
-Reviewed a total of **80 papers** as a Program Committee member for top-tier conferences and workshops.
-
 <b>Program Committee / Task Organizer:</b> <br />
 SemEval 2026 (Task Organizer — MTRAGEval) <br />
 VLDB Journal: 2025 <br />
