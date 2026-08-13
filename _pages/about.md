@@ -15,9 +15,10 @@ redirect_from:
 
 <p>
 <left>
-<a href="https://pvn25.github.io/papers/My_CV.pdf">Curriculum Vitae (CV)</a> |
+<a href="https://vraj-ucsd.github.io/papers/Vraj_CV.pdf">Curriculum Vitae (CV)</a> |
 <a href="https://scholar.google.com/citations?user=urvol3EAAAAJ&hl=en">Google Scholar</a> |
-<a href="https://pvn25.github.io/papers/Dissertation_Vraj.pdf">Dissertation</a>
+<a href="https://vraj-ucsd.github.io/papers/Dissertation_Vraj.pdf">Dissertation</a> |
+<a href="https://linkedin.com/in/vraj">LinkedIn</a>
 </left>
 </p>
 
@@ -35,12 +36,16 @@ redirect_from:
 
 ## Service
 
-<b>Program Committee:</b> <br />
-SemEval: 2026 (Task Organizer — MTRAGEval) <br />
-SIGMOD: 2024 <br />
+Reviewed a total of **80 papers** as a Program Committee member for top-tier conferences and workshops.
+
+<b>Program Committee / Task Organizer:</b> <br />
+SemEval 2026 (Task Organizer — MTRAGEval) <br />
+VLDB Journal: 2025 <br />
+ACM SIGMOD: 2025, 2024 <br />
+DAIS Workshop at IEEE ICDE: 2025 <br />
 VLDB: 2024, 2022 <br />
-CODS-COMAD: 2024 <br />
-NeurIPS Table Representation Learning Workshop: 2022 <br />
+ACM CODS-COMAD: 2024 <br />
+NeurIPS Table Representation Learning (TRL) Workshop: 2022 <br />
 SIGMOD DEEM Workshop: 2022 <br />
 
 <b>External Reviewer:</b> <br />
