@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Staff Research Scientist at the [IBM Almaden Research Center](https://research.ibm.com/labs/almaden/), working in the AI Group within IBM Research.
-* My current research focuses on **evaluation and benchmarking of Large Language Models (LLMs)** for Retrieval-Augmented Generation (RAG) systems, as well as data-efficient machine learning techniques for enterprise AI applications. I led the development of [MTRAG](https://arxiv.org/abs/2410.15252), a multi-turn conversational benchmark for evaluating RAG systems (89+ citations).
-* I completed my PhD at the University of California San Diego, advised by [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/). As a member of [ADA Lab](https://adalabucsd.github.io/), my doctoral research focused on simplifying data preparation for machine learning on tabular data — spanning automated feature type inference, schema-aware join optimization, and speech-driven natural language interfaces for databases (SpeakQL).
+* I am a Staff Research Scientist at [IBM Research – Silicon Valley](https://research.ibm.com/labs/almaden/), working in the AI Group within IBM Research.
+* My current research focuses on **evaluation and benchmarking of Large Language Models (LLMs)** for Retrieval-Augmented Generation (RAG) systems, as well as data-efficient machine learning techniques for enterprise AI applications.
+* I completed my PhD at the University of California San Diego, advised by [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/). As a member of [ADA Lab](https://adalabucsd.github.io/), my doctoral research focused on simplifying data preparation for machine learning on tabular data, with contributions spanning automated feature type inference, schema-aware join optimization, and speech-driven natural language interfaces for databases (SpeakQL).
 * Before starting my PhD, I obtained my B.Tech degree from the [Indian Institute of Technology, Indore](http://www.iiti.ac.in/).
-* I hold US Patent 11,086,937 for speech-based structured querying.
 
 <p>
 <left>
@@ -25,12 +24,12 @@ redirect_from:
 
 ## Recent News
 
-* **2026.** [SemEval-2026 Task 8: MTRAGEval](https://semeval.github.io/) accepted at SemEval 2026. (24 citations)
-* **2026.** [MTRAG-UN](https://arxiv.org/abs/2410.15252) accepted at ACL Findings 2026. (25 citations)
-* **2026.** [Activated LoRA: Fine-tuned LLMs for Intrinsics](https://arxiv.org/) accepted at NeurIPS 2026. (7 citations)
-* **2025.** [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating RAG Systems](https://arxiv.org/abs/2410.15252) published — 89+ citations within the first year.
+* **2026.** [SemEval-2026 Task 8: MTRAGEval](https://semeval.github.io/) accepted at SemEval 2026.
+* **2026.** [MTRAG-UN](https://arxiv.org/abs/2410.15252) accepted at ACL Findings 2026.
+* **2026.** [Activated LoRA: Fine-tuned LLMs for Intrinsics](https://arxiv.org/) accepted at NeurIPS 2026.
+* **2025.** [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating RAG Systems](https://arxiv.org/abs/2410.15252) published.
 * **2025.** [A Library of LLM Intrinsics for RAG](https://arxiv.org/) published on arXiv.
-* **2024.** [How do Categorical Duplicates Affect ML?](https://pvn25.github.io/papers/TR_Categ_Dups.pdf) accepted at VLDB 2024. (10 citations)
+* **2024.** [How do Categorical Duplicates Affect ML?](https://pvn25.github.io/papers/TR_Categ_Dups.pdf) accepted at VLDB 2024.
 * **2022.** PhD dissertation: [Simplifying Data Preparation for ML on Tabular Data](https://pvn25.github.io/papers/Dissertation_Vraj.pdf). UC San Diego.
 
 
