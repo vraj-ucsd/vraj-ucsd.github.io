@@ -7,38 +7,43 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <center> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a></center> -->
-*  I am a Staff Research Scientist at the [IBM Almaden Research Center](https://research.ibm.com/labs/almaden/).
-*  I completed my PhD at the University of California San Diego, advised by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/). While at UCSD, I was a member of [ADA Lab](https://adalabucsd.github.io/) headed by [Dr. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/). My research focused on the synthesis of DB schema management & ML techniques to help simplify and automate critical ML data prep steps on tabular data. 
-* Before starting my Ph.D, I obtained my B.Tech degree from [Indian Institute of Technology, Indore](http://www.iiti.ac.in/).
+
+* I am a Staff Research Scientist at the [IBM Almaden Research Center](https://research.ibm.com/labs/almaden/), working in the AI Group within IBM Research.
+* My current research focuses on **evaluation and benchmarking of Large Language Models (LLMs)** for Retrieval-Augmented Generation (RAG) systems, as well as data-efficient machine learning techniques for enterprise AI applications. I led the development of [MTRAG](https://arxiv.org/abs/2410.15252), a multi-turn conversational benchmark for evaluating RAG systems (89+ citations).
+* I completed my PhD at the University of California San Diego, advised by [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/). As a member of [ADA Lab](https://adalabucsd.github.io/), my doctoral research focused on simplifying data preparation for machine learning on tabular data — spanning automated feature type inference, schema-aware join optimization, and speech-driven natural language interfaces for databases (SpeakQL).
+* Before starting my PhD, I obtained my B.Tech degree from the [Indian Institute of Technology, Indore](http://www.iiti.ac.in/).
+* I hold US Patent 11,086,937 for speech-based structured querying.
 
 <p>
-<left> <a href = "https://pvn25.github.io/papers/My_CV.pdf"> Curriculum Vitae (CV) </a> | <a href="https://scholar.google.com/citations?user=QsxljNcAAAAJ&hl=en">Google Scholar</a> | <a href = "https://pvn25.github.io/papers/Dissertation_Vraj.pdf"> Dissertation </a> </left>
+<left>
+<a href="https://pvn25.github.io/papers/My_CV.pdf">Curriculum Vitae (CV)</a> |
+<a href="https://scholar.google.com/citations?user=urvol3EAAAAJ&hl=en">Google Scholar</a> |
+<a href="https://pvn25.github.io/papers/Dissertation_Vraj.pdf">Dissertation</a>
+</left>
 </p>
+
+
+## Recent News
+
+* **2026.** [SemEval-2026 Task 8: MTRAGEval](https://semeval.github.io/) accepted at SemEval 2026. (24 citations)
+* **2026.** [MTRAG-UN](https://arxiv.org/abs/2410.15252) accepted at ACL Findings 2026. (25 citations)
+* **2026.** [Activated LoRA: Fine-tuned LLMs for Intrinsics](https://arxiv.org/) accepted at NeurIPS 2026. (7 citations)
+* **2025.** [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating RAG Systems](https://arxiv.org/abs/2410.15252) published — 89+ citations within the first year.
+* **2025.** [A Library of LLM Intrinsics for RAG](https://arxiv.org/) published on arXiv.
+* **2024.** [How do Categorical Duplicates Affect ML?](https://pvn25.github.io/papers/TR_Categ_Dups.pdf) accepted at VLDB 2024. (10 citations)
+* **2022.** PhD dissertation: [Simplifying Data Preparation for ML on Tabular Data](https://pvn25.github.io/papers/Dissertation_Vraj.pdf). UC San Diego.
 
 
 ## Service
 
-<b> Program Committe: </b> <br />
+<b>Program Committee:</b> <br />
+SemEval: 2026 (Task Organizer — MTRAGEval) <br />
 SIGMOD: 2024 <br />
 VLDB: 2024, 2022 <br />
 CODS-COMAD: 2024 <br />
 NeurIPS Table Representation Learning Workshop: 2022 <br />
 SIGMOD DEEM Workshop: 2022 <br />
 
-<b> External Reviewer: <br /> 
+<b>External Reviewer:</b> <br />
 VLDB: 2019 <br />
 VLDB (Demo track): 2018
-
-
-<!-- # Recent News
-* January, 2022. Honored to be invited to serve as part of the Program Committee for SIGMOD [DEEM Workshop](http://deem-workshop.org) 2022.
-* March, 2021. [SortingHat](https://adalabucsd.github.io/papers/TR_2021_SortingHat.pdf) paper is accepted to SIGMOD 2021.
-* January, 2021. Honored to be invited to serve as part of the Program Committee for research track PVLDB 2022.
-* December, 2020. I am now a PhD candidate at UC San Diego!
-* March, 2020. [SpeakQL](https://adalabucsd.github.io/papers/2020_SpeakQL_SIGMOD.pdf) paper is accepted to SIGMOD 2020.
-* July, 2019. Honored to receive <i> second runner-up </i>  award at SIGMOD SRC 2019.
-* April, 2019. Our work on semi-automating data preparation for ML, [MLDataPrepZoo](https://adalabucsd.github.io/sortinghat.html) is accepted to SIGMOD, DEEM Workshop 2019.
-* March, 2019. Our demo on [SpeakQL](https://adalabucsd.github.io/speakql.html) is accepted to SIGMOD 2019.
-* November, 2018. My student research entry on [SpeakQL](https://adalabucsd.github.io/speakql.html) is accepted to SRC SIGMOD 2019.
-* October, 2017. The [Hamlet++](https://adalabucsd.github.io/hamlet.html) paper is accepted to VLDB 2018. -->
