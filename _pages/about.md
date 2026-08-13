@@ -34,18 +34,3 @@ redirect_from:
 * **2022.** PhD dissertation: [Simplifying Data Preparation for ML on Tabular Data](https://escholarship.org/uc/item/36b7v7mv). UC San Diego.
 
 
-## Service
-
-<b>Program Committee / Task Organizer:</b> <br />
-SemEval 2026 (Task Organizer — MTRAGEval) <br />
-VLDB Journal: 2025 <br />
-ACM SIGMOD: 2025, 2024 <br />
-DAIS Workshop at IEEE ICDE: 2025 <br />
-VLDB: 2024, 2022 <br />
-ACM CODS-COMAD: 2024 <br />
-NeurIPS Table Representation Learning (TRL) Workshop: 2022 <br />
-SIGMOD DEEM Workshop: 2022 <br />
-
-<b>External Reviewer:</b> <br />
-VLDB: 2019 <br />
-VLDB (Demo track): 2018
