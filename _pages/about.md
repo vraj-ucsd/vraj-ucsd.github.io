@@ -18,7 +18,7 @@ redirect_from:
 <a href="https://vraj-ucsd.github.io/papers/Vraj_CV.pdf">Curriculum Vitae (CV)</a> |
 <a href="https://scholar.google.com/citations?user=urvol3EAAAAJ&hl=en">Google Scholar</a> |
 <a href="https://escholarship.org/uc/item/36b7v7mv">Dissertation</a> |
-<a href="https://linkedin.com/in/vraj">LinkedIn</a>
+<a href="https://www.linkedin.com/in/pvn251/">LinkedIn</a>
 </left>
 </p>
 
