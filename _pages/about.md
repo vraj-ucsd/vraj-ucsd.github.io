@@ -23,15 +23,5 @@ redirect_from:
 </p>
 
 
-<!-- ## Recent News
-
-* **2026.** [SemEval-2026 Task 8: MTRAGEval](https://aclanthology.org/2026.semeval-1.447) accepted at SemEval 2026.
-* **2026.** [MTRAG-UN](https://aclanthology.org/2026.findings-acl.503) accepted at ACL Findings 2026.
-* **2026.** [Activated LoRA: Fine-tuned LLMs for Intrinsics](https://proceedings.neurips.cc/paper_files/paper/2025/file/4d0b6303d4a4811445f69f357bf6def5-Paper-Conference.pdf) accepted at NeurIPS 2025.
-* **2025.** [MTRAG: A Multi-Turn Conversational Benchmark for Evaluating RAG Systems](https://arxiv.org/abs/2501.03468) published.
-* **2025.** [A Library of LLM Intrinsics for RAG](https://arxiv.org/abs/2504.11704) published on arXiv.
-* **2024.** [How do Categorical Duplicates Affect ML?](https://www.vldb.org/pvldb/vol17/p1391-shah.pdf) accepted at VLDB 2024.
-* **2022.** PhD dissertation: [Simplifying Data Preparation for ML on Tabular Data](https://escholarship.org/uc/item/36b7v7mv). UC San Diego.
--->
 
 
