@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * I am a Staff Research Scientist at [IBM Research – Silicon Valley](https://research.ibm.com/labs/almaden/), working in the AI Group within IBM Research.
-* My current research focuses on evaluation and benchmarking of Large Language Models (LLMs) for Retrieval-Augmented Generation (RAG) systems, as well as data-efficient machine learning techniques for enterprise AI applications.
+* My research sits at the intersection of data management and AI, with contributions spanning LLM evaluation and benchmarking for enterprise RAG systems, automated data preparation for machine learning, and natural language interfaces for structured data. This work collectively aims to lower the barrier for adopting AI across domains.
 * I completed my PhD at the University of California San Diego, advised by [Prof. Arun Kumar](http://cseweb.ucsd.edu/~arunkk/) in the [Computer Science Department](http://cse.ucsd.edu/). As a member of [ADA Lab](https://adalabucsd.github.io/), my doctoral research focused on simplifying data preparation for machine learning on tabular data, with contributions spanning automated feature type inference, schema-aware join optimization, and speech-driven natural language interfaces for databases (SpeakQL).
 * Before starting my PhD, I obtained my B.Tech degree from the [Indian Institute of Technology, Indore](http://www.iiti.ac.in/).
 
